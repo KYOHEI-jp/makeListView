@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">TestListView</string>
 
-    <string name= "text_1">Android ListView</string>
+    <string name="text_1">Android ListView</string>
+
+    <string name="btn_text_1">ListView - 1</string>
+    <string name="btn_text_1">ListView - 2</string>
+    <string name="btn_text_1">ListView - 3</string>
 </resources>
